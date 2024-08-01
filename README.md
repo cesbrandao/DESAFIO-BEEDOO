@@ -36,8 +36,8 @@ Critérios de Aceite:
 Critérios de Aceite:
 - Acessível para usuários cadastrados do tipo "Administrador".
 - O usuário deve poder excluir um curso da lista de cursos disponíveis.
-- O usuário deve receber uma mensagem de confirmação antes de excluir o curso.
-- O usuário deve ser notificado após o curso ser excluído com sucesso.      
+- O usuário deve receber uma mensagem para confirmar a exclusão do curso.
+- O usuário deve receber uma mensagem de sucesso após a exclusão do curso.      
 - O curso deve ser removido permanentemente da plataforma.
 
 ---
