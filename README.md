@@ -34,7 +34,7 @@ Critérios de Aceite:
 **Como** administrador do sistema, **quero** excluir um curso **para** manter a plataforma livre de conteúdos desatualizados ou irrelevantes.
 
 Critérios de Aceite:
-- Acessível para usuários cadastrados do tipo "Administrador".
+- Acessível para usuários cadastrados do tipo `Administrador`.
 - O usuário deve poder excluir um curso da lista de cursos disponíveis.
 - O usuário deve receber uma mensagem de confirmação antes de excluir o curso.
 - O usuário deve ser notificado após o curso ser excluído com sucesso.      
