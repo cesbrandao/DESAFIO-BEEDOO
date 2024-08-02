@@ -26,7 +26,6 @@ Critérios de Aceite:
 Critérios de Aceite:
 - Acessível para usuários cadastrados do tipo `Administrador`.
 - O usuário deve poder ver uma lista com todos os cursos e suas informações (nome, tipo, vagas, datas de início e fim, instrutor, etc.).
-- O usuário deve poder filtrar e ordenar a lista de cursos por diferentes critérios (instrutor, tipo, datas de início e fim, etc.).
 - O usuário deve poder excluir cursos diretamente da lista de cursos. 
 
 ---
@@ -41,3 +40,7 @@ Critérios de Aceite:
 - O curso deve ser removido permanentemente da plataforma.
 
 ---
+
+## Artefatos
+
+- [Cenários de testes](https://docs.google.com/spreadsheets/d/1ft5jpb7sT85Wyuz704SdhngYbbQV-hKuXoZAc2ez5P0/edit?usp=sharing)
