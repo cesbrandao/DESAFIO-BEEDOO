@@ -46,3 +46,4 @@ Critérios de Aceite:
 - [Cenários de testes](https://docs.google.com/spreadsheets/d/1ft5jpb7sT85Wyuz704SdhngYbbQV-hKuXoZAc2ez5P0/edit?usp=sharing)
 - [Report de testes](https://docs.google.com/document/d/1XJePh86R_msA9feUIGjUH0TzGfbHj854W4m6qECy9ag/edit?usp=sharing)
 - [Report de bugs](https://docs.google.com/document/d/1TF6yIQ4T-QOp3PZ0mrlWEd1VTBPJ8UHazRq6JhfbfX4/edit?usp=sharing)
+- [Repositório de evidências](https://drive.google.com/drive/folders/1lbHNYA1MROdS8SZOF7TgVVjvFxznepew?usp=sharing)
